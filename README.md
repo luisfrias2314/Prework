@@ -31,7 +31,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-The most challenging part is implementing the tip slider which is only enabled when the switch is on. I had difficulty understanding the connections.  
+The most challenging part wasimplementing the tip slider. The slider becomes visible with the switch in the navigation bar on and the segment control becomes hidden. Implementing this mechanism while keeping the tip calculater function based on the state (slider or segment control) proved to be a challenging task.
 
 ## License
 
