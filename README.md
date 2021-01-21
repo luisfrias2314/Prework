@@ -4,7 +4,7 @@
 
 Submitted by: **Luis Frias**
 
-Time spent: **5 hours**
+Time spent: **8 hours**
 
 ## User Stories
 
