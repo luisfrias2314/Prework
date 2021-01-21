@@ -4,7 +4,7 @@
 
 Submitted by: **Luis Frias**
 
-Time spent: **X** 5
+Time spent: **X** 5 hours
 
 ## User Stories
 
@@ -34,12 +34,11 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+The most challenging part is implementing the tip slider which is only enabled when the switch is on. I had difficulty understanding the connections.  
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Luis Frias]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
